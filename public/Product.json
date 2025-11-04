@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "product_img":"https://i.postimg.cc/T1kpvfyT/Bid1-min.png",
+        "product_name":"Vintage Leica M3 Camera",
+        "product_price":"$2,850",
+        "product_time_left":"2 Days left"
+    },
+    {
+        "id": 2,
+        "product_img":"https://i.postimg.cc/pX6p0VbZ/Bid2-min.png",
+        "product_name":"1965 Gibson SG Standard Electric Guitar",
+        "product_price":"$2,850",
+        "product_time_left":"2 Days left"
+    },
+    {
+        "id": 3,
+        "product_img":"https://i.postimg.cc/pTKPBxQs/Bid3-min.png",
+        "product_name":"Original Apple Macintosh 128K (1984)",
+        "product_price":"$2,500",
+        "product_time_left":"3 Days left"
+    },
+    {
+        "id": 4,
+        "product_img":"https://i.postimg.cc/90pVvpnT/Bid4-min.png",
+        "product_name":"Relex Submariner 16610",
+        "product_price":"$1,500",
+        "product_time_left":"2 Days left"
+    },
+    {
+        "id": 5,
+        "product_img":"https://i.postimg.cc/qvg052Xh/Bid6-min.png",
+        "product_name":"First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+        "product_price":"$2,000",
+        "product_time_left":"2 Days left"
+    },
+    {
+        "id": 6,
+        "product_img":"https://i.postimg.cc/yNZKVBG7/Bid5-min.png",
+        "product_name":"Mid-Century Modern Eames Lounge Chair",
+        "product_price":"$1,200",
+        "product_time_left":"5 Days left"
+    },
+    {
+        "id": 7,
+        "product_img":"https://i.postimg.cc/tJ2QrgsN/Bid7-min.png",
+        "product_name":"Banksy Original Screen Print",
+        "product_price":"$3,000",
+        "product_time_left":"2 Days left"
+    }
+  
+]
+
+
+
+
+
