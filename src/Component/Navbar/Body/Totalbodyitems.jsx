@@ -14,11 +14,12 @@ const Totalbodyitems = ({ bookmark }) => {
         
 
   return (
-    <div className="bg-gray-200 shadow-xl">
+    <div className="bg-gray-500 shadow-xl">
       <div className="flex gap-3 justify-center items-center p-5">
         <GrFavorite size={25} />
         <h1 className="text-3xl">Favorite Items</h1>
       </div>
+      
 
       <div>
         {bookmark.map((data, idx) => (
@@ -35,6 +36,10 @@ const Totalbodyitems = ({ bookmark }) => {
           </div>
         ))}
       </div>
+
+
+
+
 
       {/* 👉 এখানে টোটাল দেখাচ্ছি */}
       <div className="p-5">

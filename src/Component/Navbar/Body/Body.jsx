@@ -14,10 +14,13 @@ const [bookmark, setBookmark] = useState([])
 const handlebookmark = (products) => {
 
   setBookmark([...bookmark, products])
- 
+
 }
 
-//useState for remove item
+//useState for remove items
+
+
+
 const [remove, setRemove] = useState(0)
 console.log(remove);
 //Remove product items
@@ -46,6 +49,7 @@ const removeItem = (id) => {
                 <h2 className="text-2xl font-bold">Active Auctions</h2>
                 <h3>Discover and bid on extaordinary items</h3>
             </div>
+            
             <div className="flex w-full items-start gap-20">
                 <div className="border-1 w-[60%] ml-16">
                     <table className='w-full border-2'>

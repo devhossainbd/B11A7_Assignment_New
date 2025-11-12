@@ -6,7 +6,7 @@ const Navbar =() =>{
 
 
     return(
-        <div className="flex justify-center gap-70 p-5 bg-white ">
+        <div className="flex justify-center gap-70 p-5 bg-gray ">
             <div className="">
                 <h1 className="text-2xl">Auction <span className="text-yellow-400">Gallery</span></h1>
                 </div>
